@@ -1,0 +1,14 @@
+.searchForm {
+    margin-top: 5ch;    
+}
+
+.blocktext {
+    margin: 0;    
+    font-size: x-large;
+    font-weight: 800;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
